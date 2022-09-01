@@ -1,1 +1,1 @@
-__This file is mandatory in projects__
+Script containing a file uname
